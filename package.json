@@ -1,0 +1,19 @@
+{
+  "name": "streetsweeperapp",
+  "version": "1.0.0",
+  "description": "### Developer NY 2018 Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreetSweeper/StreetSweeperApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StreetSweeper/StreetSweeperApp/issues"
+  },
+  "homepage": "https://github.com/StreetSweeper/StreetSweeperApp#readme"
+}
